@@ -1,0 +1,34 @@
+body {
+  font-size: 16px;
+}
+
+h1 {
+  font-size: 65px;
+  color: orange;
+  font-family: sans-serif;
+}
+
+.paragraph-color {
+  background-color: palegreen;
+  font-weight: 600;
+  font-size: 3em;
+}
+
+.list-style {
+  background-color: powderblue;
+  font-style: italic;
+  line-height: 30px;
+  text-decoration: underline;
+}
+
+#item-1 {
+  background-color: chocolate;
+}
+
+#item-2 {
+  background-color: burlywood;
+}
+
+#item-3 {
+  background-color: darkolivegreen;
+}
